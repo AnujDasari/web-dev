@@ -1,0 +1,37 @@
+.first {
+    height: 200px;
+    width: 200px;
+    background: grey
+
+}
+
+#second {
+    height: 200px;
+    width: 200px;
+    background: blue
+}
+
+#home {
+    height: 400px;
+    width: 100%;
+    background: yellow
+
+}
+
+#about {
+    height: 400px;
+    width: 100%;
+    background: purple
+
+}
+
+#contact {
+    height: 400px;
+    width: 100%;
+    background: red
+    
+}
+
+table, thead, tbody, th, tr, td {
+    border: 1px solid black
+}
